@@ -1,0 +1,22 @@
+Question 1: Can you explain how ERP systems benefit metal work companies?
+Response: hello hello
+Sentiment Score: 0.0
+
+Question 2: What challenges do metal work companies face when implementing ERP systems?
+Response: hello
+Sentiment Score: 0.0
+
+Question 3: How does an ERP system improve operational efficiency in metal fabrication?
+Response: 
+Sentiment Score: 0.0
+
+Question 4: Can you discuss any trends in ERP solutions for the metal industry?
+Response: 
+Sentiment Score: 0.0
+
+Question 5: How would you ensure data security within an ERP system for a metal works company?
+Response: 
+Sentiment Score: 0.0
+
+Candidate's Average Score: 0.0
+Final Decision: Fail
