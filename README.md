@@ -81,7 +81,7 @@ Clone the Repository
 
 bash
 git clone https://github.com/Ut277/ai_interviewer.git
-cd ai_voice_interviewer
+cd ai_interviewer
 Set Up Virtual Environment
 
 bash
